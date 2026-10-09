@@ -1,12 +1,5 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Shalini%20M&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Python%20%26%20Django%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Founder%20%40%20Citizen%20AI&descSize=16&descAlignY=58" width="100%" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+Django;Integrating+Generative+AI+into+real+products;Founder+of+Citizen+AI;Open+to+internships+and+entry-level+IT+roles" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi, I'm Shalini M 👋</h1>
+<h3 align="center">Python & Django Developer | AI & Machine Learning | Founder of Citizen AI</h3>
 
 <!-- Quick links -->
 <p align="center">
@@ -21,22 +14,12 @@
 
 ## 🙋‍♀️ About Me
 
-```python
-class Shalini:
-    def __init__(self):
-        self.name      = "Shalini M"
-        self.location  = "Karur, Tamil Nadu, India"
-        self.education = "B.E. Computer Science and Engineering (2023 – 2027)"
-        self.role      = "Founder @ Citizen AI"
-        self.stack     = ["Python", "Django", "Flask", "React", "JavaScript"]
-        self.learning  = ["Machine Learning", "Deep Learning", "Generative AI", "RAG"]
-        self.goal      = "AI & Machine Learning Engineer"
-        self.motto     = "Keep Learning • Keep Building • Keep Growing"
-```
-
-- 🎓 Final-year CSE student at **Chettinad College of Engineering and Technology**
+- 🎓 Final-year B.E. Computer Science student at **Chettinad College of Engineering and Technology**
+- 📍 Karur, Tamil Nadu, India
+- 🛠️ I build web applications with **Python, Django and Flask**, and integrate **Generative AI (Claude, Gemini, RAG)** into real products
 - 🚀 Founder of **Citizen AI**, an AI and technology startup
 - 🌐 Built and deployed a live client platform: [learntosuccess365.in](https://learntosuccess365.in)
+- 🎯 Goal: become an **AI & Machine Learning Engineer**
 - 💼 Open to **internships and entry-level IT roles** in software development and AI
 
 ---
@@ -198,12 +181,10 @@ class Shalini:
 
 ## 🌱 Currently Learning
 
-```text
-🐍 Python           →  Advanced Python, OOP
-📊 Data Handling    →  NumPy, Pandas
-🤖 Machine Learning →  Scikit-learn  →  Deep Learning
-✨ GenAI / LLMs     →  RAG systems, AI Agents
-```
+- 🐍 **Python:** advanced Python and OOP
+- 📊 **Data handling:** NumPy, Pandas
+- 🤖 **Machine Learning:** scikit-learn, then Deep Learning
+- ✨ **GenAI / LLMs:** RAG systems and AI agents
 
 ---
 
@@ -227,9 +208,4 @@ class Shalini:
   <a href="https://www.linkedin.com/in/shalini-m-b765b8291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shalinimoorthi87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/selenophile808"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<!-- Footer banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" width="100%" />
 </p>
