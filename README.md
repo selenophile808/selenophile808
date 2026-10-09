@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Shalini M 👋</h1>
-<h3 align="center">Python & Django Developer | AI & Machine Learning | Founder of Citizen AI</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&height=45&lines=Python+%26+Django+Developer;Building+AI-powered+web+apps;Founder+of+Citizen+AI;Open+to+internships+%26+IT+roles" alt="Python & Django Developer | Building AI-powered web apps | Founder of Citizen AI" />
+</p>
 
 <!-- Quick links -->
 <p align="center">
