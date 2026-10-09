@@ -1,16 +1,222 @@
-## Hi there 👋
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Shalini%20M&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Python%20%26%20Django%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Founder%20%40%20Citizen%20AI&descSize=16&descAlignY=58" width="100%" />
+</p>
 
-<!--
-**selenophile808/selenophile808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+Django;Integrating+Generative+AI+into+real+products;Founder+of+Citizen+AI;Open+to+internships+and+entry-level+IT+roles" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Quick links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shalini-m-b765b8291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shalinimoorthi87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://learntosuccess365.in"><img src="https://img.shields.io/badge/Live_Project-learntosuccess365.in-222222?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=selenophile808&style=for-the-badge&color=2a5298&label=Profile+Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♀️ About Me
+
+```python
+class Shalini:
+    def __init__(self):
+        self.name      = "Shalini M"
+        self.location  = "Karur, Tamil Nadu, India"
+        self.education = "B.E. Computer Science and Engineering (2023 – 2027)"
+        self.role      = "Founder @ Citizen AI"
+        self.stack     = ["Python", "Django", "Flask", "React", "JavaScript"]
+        self.learning  = ["Machine Learning", "Deep Learning", "Generative AI", "RAG"]
+        self.goal      = "AI & Machine Learning Engineer"
+        self.motto     = "Keep Learning • Keep Building • Keep Growing"
+```
+
+- 🎓 Final-year CSE student at **Chettinad College of Engineering and Technology**
+- 🚀 Founder of **Citizen AI**, a technology and creative services studio
+- 🌐 Built and deployed a live client platform: [learntosuccess365.in](https://learntosuccess365.in)
+- 💼 Open to **internships and entry-level IT roles** in software development and AI
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+**AI & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+**Databases & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 💼 Experience
+
+**Founder & Freelance Developer – Citizen AI** &nbsp;·&nbsp; *2026 – Present*
+- Founded and lead a technology and creative services startup delivering web, AI, and digital branding solutions to small businesses.
+- Designed, developed, and deployed [learntosuccess365.in](https://learntosuccess365.in), a CAD/CAE online training platform, handling frontend, backend, database, admin panel, and deployment for a paying client.
+- Deliver website and app development, UI/UX design, branding, AI content, and social media management for student and women entrepreneurs.
+- Provide end-to-end support including API integration, domain and hosting setup, SEO, and website maintenance.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[Learn to Success 365](https://learntosuccess365.in)**<br>CAD/CAE Training Platform | Django, Python, HTML, CSS | Student portal, admin portal and certificate verification. Live on Railway. |
+| **[AI Student Support Assistant](https://github.com/selenophile808/ai-student-support-assistant)**<br>IBM TNSDC Agentic AI Internship | Python, Flask, scikit-learn, Gemini API | Agentic AI assistant for college queries using **RAG**, **tool calling** and **conversation memory**, with an offline fallback mode. |
+| **[AI-Powered Resume Analyzer](https://github.com/selenophile808/resume-analyzer)** | Python, Flask, Streamlit, Claude API | Analyzes resumes, gives an ATS score and personalized improvement suggestions. |
+| **[Smart Health Monitoring & Appointment System](https://github.com/selenophile808/smart-health-monitoring-and-appointment-system)** | Django, Python | Patient, doctor and admin modules with appointment booking. |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=selenophile808&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selenophile808&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=selenophile808&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selenophile808&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+| | Achievement | Details |
+|---|---|---|
+| 🚀 | Founded Citizen AI | Founded a technology studio delivering web development and AI solutions to clients |
+| 💼 | First Client Project Delivered | Built and deployed [learntosuccess365.in](https://learntosuccess365.in), a live CAD/CAE training platform |
+| 🤖 | IBM TNSDC Agentic AI Internship | Built an AI Student Support Assistant with RAG, tool calling and memory |
+
+---
+
+## 🛠️ Workshops & Bootcamps
+
+**Startup Singam Bootcamp** – Swayasakthi Homepreneur Awards 2026, Student Edition &nbsp;·&nbsp; *Jul 2026, Loyola College, Chennai*
+- Pitched the Citizen AI startup idea, covering the problem, target customers, services and business model.
+- Learned startup fundamentals including idea validation, branding and go-to-market strategy.
+- Turned the pitch into a real venture by founding the Citizen AI studio.
+
+**AI Automation using n8n** – Skynova Tech Solutions &nbsp;·&nbsp; *Mar 2026*
+- Built no-code / low-code workflow automations using n8n.
+- Connected APIs, triggers and AI nodes to automate repetitive business tasks.
+
+**Design Thinking Power Seminar** – ICT Academy &nbsp;·&nbsp; *Mar 2026*
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Date | Credential |
+|---|---|---|---|
+| Claude Platform 101 | Anthropic | Jun 2026 | — |
+| Claude Code 101 | Anthropic | Jun 2026 | — |
+| Python (Basic) | HackerRank | Jul 2026 | [Verify](https://www.hackerrank.com/certificates/fbde867ad3af) |
+| Microsoft Azure (25-Hour Course) | Microsoft Learn & FICE | Jan 2026 | — |
+| MongoDB Java Developer Path | MongoDB | Dec 2025 | ID: MDBsdl8fapd5a |
+| Back-End App Development with Node.js and Express | IBM SkillsNetwork | Nov 2025 | [Verify](https://courses.tnsdc.skillsnetwork.site/certificates/e5313b1a7c74481ca24c4404832d312a) |
+
+### 🍃 MongoDB Skill Badges (Credly · Jul 2026)
+
+| Badge | Focus |
+|---|---|
+| Building RAG Apps Using MongoDB | Generative AI |
+| Building AI Agents with MongoDB | Generative AI |
+| Memory for AI Applications with MongoDB | Generative AI |
+| Building AI-Powered Search with MongoDB Vector Search | Vector Search |
+| Using Voyage Models with MongoDB | Embeddings |
+| AI and Innovation: How MongoDB Enables a Resilient AI Strategy | AI Strategy |
+| MongoDB Schema Design Patterns and Anti-patterns | Data Modeling |
+| From Relational Model (SQL) to MongoDB's Document Model | Data Modeling |
+| MongoDB Basics for Students | Fundamentals |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.E. – Computer Science and Engineering | Chettinad College of Engineering and Technology, Karur | Currently Pursuing (7th Sem) | CGPA: 7.16/10 |
+| Higher Secondary (HSC) | TNPL Matriculation Hr. Sec. School | 2023 | Completed |
+
+---
+
+## 🌱 Currently Learning
+
+```text
+🐍 Python           →  Advanced Python, OOP
+📊 Data Handling    →  NumPy, Pandas
+🤖 Machine Learning →  Scikit-learn  →  Deep Learning
+✨ GenAI / LLMs     →  RAG systems, AI Agents
+```
+
+---
+
+## 🌐 Citizen AI
+
+*We Create. You Grow.* Website & App Development • UI/UX Design • Branding • Social Media • AI Content
+
+<p>
+  <a href="https://www.instagram.com/ai.citizen___0888"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/company/citizenofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ai.citizen0888@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shalini-m-b765b8291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shalinimoorthi87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/selenophile808"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" width="100%" />
+</p>
