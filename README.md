@@ -119,7 +119,7 @@ class Shalini:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selenophile808&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://ghchart.rshah.org/2a5298/selenophile808" alt="Shalini M contribution chart" width="95%" />
 </p>
 
 ---
