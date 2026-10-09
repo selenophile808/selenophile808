@@ -10,8 +10,9 @@
 
 <!-- Quick links -->
 <p align="center">
+  <a href="https://shalini-m-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-shalini--m--portfolio.netlify.app-2a5298?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shalini-m-b765b8291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shalinimoorthi87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shalinimoorthi87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://learntosuccess365.in"><img src="https://img.shields.io/badge/Live_Project-learntosuccess365.in-222222?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=selenophile808&style=for-the-badge&color=2a5298&label=Profile+Views" />
 </p>
@@ -34,7 +35,7 @@ class Shalini:
 ```
 
 - 🎓 Final-year CSE student at **Chettinad College of Engineering and Technology**
-- 🚀 Founder of **Citizen AI**, a technology and creative services studio
+- 🚀 Founder of **Citizen AI**, an AI and technology startup
 - 🌐 Built and deployed a live client platform: [learntosuccess365.in](https://learntosuccess365.in)
 - 💼 Open to **internships and entry-level IT roles** in software development and AI
 
@@ -88,8 +89,8 @@ class Shalini:
 
 ## 💼 Experience
 
-**Founder & Freelance Developer – Citizen AI** &nbsp;·&nbsp; *2026 – Present*
-- Founded and lead a technology and creative services startup delivering web, AI, and digital branding solutions to small businesses.
+**Founder – [Citizen AI](https://citizenai-official.github.io)** (AI & Technology Startup) &nbsp;·&nbsp; *2026 – Present*
+- Founded and lead an AI and technology startup delivering web, AI, and digital branding solutions to small businesses.
 - Designed, developed, and deployed [learntosuccess365.in](https://learntosuccess365.in), a CAD/CAE online training platform, handling frontend, backend, database, admin panel, and deployment for a paying client.
 - Deliver website and app development, UI/UX design, branding, AI content, and social media management for student and women entrepreneurs.
 - Provide end-to-end support including API integration, domain and hosting setup, SEO, and website maintenance.
@@ -128,9 +129,19 @@ class Shalini:
 
 | | Achievement | Details |
 |---|---|---|
-| 🚀 | Founded Citizen AI | Founded a technology studio delivering web development and AI solutions to clients |
+| 🚀 | Founded Citizen AI | Founded an AI and technology startup delivering web development and AI solutions to clients |
 | 💼 | First Client Project Delivered | Built and deployed [learntosuccess365.in](https://learntosuccess365.in), a live CAD/CAE training platform |
 | 🤖 | IBM TNSDC Agentic AI Internship | Built an AI Student Support Assistant with RAG, tool calling and memory |
+| 🏁 | Smart India Hackathon 2026 | Participated with Team Citizen.ai, proposing AgriSustain AI for Panchayat-level weather and irrigation advisory |
+
+---
+
+## 🏁 Hackathons
+
+**Smart India Hackathon 2026** – Team Citizen.ai &nbsp;·&nbsp; *Problem Statement SIH26074 · Agriculture, FoodTech & Rural Development*
+- Proposed **AgriSustain AI**, a platform that downscales block-level weather forecasts to Panchayat level and gives rain-aware precision irrigation advice to farmers.
+- Designed the solution around satellite data (Sentinel-1/2, NDVI, NDWI), ERA5 and soil data, with ML models (XGBoost, ConvLSTM, Random Forest) for 3–7 day crop water-stress prediction.
+- Planned a React + Leaflet PWA with a FastAPI and PostGIS backend, plus multilingual SMS and voice alerts for farmers.
 
 ---
 
@@ -139,7 +150,7 @@ class Shalini:
 **Startup Singam Bootcamp** – Swayasakthi Homepreneur Awards 2026, Student Edition &nbsp;·&nbsp; *Jul 2026, Loyola College, Chennai*
 - Pitched the Citizen AI startup idea, covering the problem, target customers, services and business model.
 - Learned startup fundamentals including idea validation, branding and go-to-market strategy.
-- Turned the pitch into a real venture by founding the Citizen AI studio.
+- Turned the pitch into a real venture by founding the Citizen AI startup.
 
 **AI Automation using n8n** – Skynova Tech Solutions &nbsp;·&nbsp; *Mar 2026*
 - Built no-code / low-code workflow automations using n8n.
@@ -201,9 +212,10 @@ class Shalini:
 *We Create. You Grow.* Website & App Development • UI/UX Design • Branding • Social Media • AI Content
 
 <p>
-  <a href="https://www.instagram.com/ai.citizen___0888"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://citizenai-official.github.io"><img src="https://img.shields.io/badge/Website-citizenai--official.github.io-222222?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/citizen.ai_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/company/citizenofficial/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ai.citizen0888@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ai.citizen0888@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -211,8 +223,9 @@ class Shalini:
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://shalini-m-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-shalini--m--portfolio.netlify.app-2a5298?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shalini-m-b765b8291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shalinimoorthi87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shalinimoorthi87@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/selenophile808"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
